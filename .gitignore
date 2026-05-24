@@ -1,11 +1,10 @@
 # Dependencies
 node_modules/
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-# Build outputs
-dist/
+# Build outputs (keep dist/ for distribution)
+# dist/
 build/
 *.tsbuildinfo
 
